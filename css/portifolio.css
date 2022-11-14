@@ -7,12 +7,12 @@
 }
 /*Variaveis*/
 :root{
-    --main-color:#222ce7;
+    --main-color:#f4f5f7;
     --main-text-color:#FFF;
     --borde-color:#fff;
-    --bio-bg-color:#081410;
+    --bio-bg-color:#00000a;
     --bio-border-color:#293544;
-    --about-bg-color:#10432c;
+    --about-bg-color:#043338;
 
 }
 /*General*/
@@ -79,6 +79,9 @@
     display: flex;
     justify-content: center;
 }
+.cor-email{
+    color: white;
+}
  /*#email-container ion-icon, #email-container a{
     flex: 1 1 0;
 
@@ -102,7 +105,7 @@
  #btn-projects{
     font-weight: bold;
     font-size: 16px;
-    color: var(--main-text-color);
+    color: black;
     background-color: var(--main-color);
     border: var(--main-color);
     border-radius: 5px;
