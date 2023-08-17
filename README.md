@@ -1,4 +1,3 @@
-# clairtonlima.io
 
 # Clairton Lima
 
@@ -10,6 +9,18 @@ graduação em Análise e Desenvolvimento de Sistemas(ADS) - Tecnólogo na UNESA
 
 [![Twitter](https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=twitter)](https://twitter.com/clairtonlm)
 
+
+## Habilidades
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+
+![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
+## Estatísticas do GitHub
+## Bibliotecas e Frameworks
+![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
+
+![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=C3002F)
+## Cartão - Estatísticas
+theme=transparent bg_color=000 border_color=30A3DC show_icons=true icon_color=30A3DC title_color=E94D5F text_color=FFF
 
 ## Habilidades
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
