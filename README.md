@@ -1,7 +1,7 @@
 
 # Clairton Lima
 
-Atualmente estudo na área de tecnologia, cursando Pós-graduação emEngenharia de Software na FAMESP - Faculdade Metropolitana de São Paulo. Tenho graduação em Análise e Desenvolvimento de Sistemas(ADS) - Tecnólogo na UNESA -Universidade Estácio de Sá. Também estou Cursando uma formação de esenvolvimento Full-Stack com especialização em Front-End e Backend na Digital College. Curso presencial na cidade de Fortaleza-CE
+Atualmente estudo na área de tecnologia, cursando Pós-graduação em Engenharia de Software na FAMESP - Faculdade Metropolitana de São Paulo. Tenho graduação em Análise e Desenvolvimento de Sistemas(ADS) - Tecnólogo na UNESA -Universidade Estácio de Sá. Também estou Cursando uma formação de esenvolvimento Full-Stack com especialização em Front-End e Backend na Digital College. Curso presencial na cidade de Fortaleza-CE
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/clairtonlima/)
