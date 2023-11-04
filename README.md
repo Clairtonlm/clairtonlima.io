@@ -1,20 +1,28 @@
 
-# Clairton Lima
+# Olá, sou Clairton Lima 👋
 
-Atualmente estudo na área de tecnologia, cursando Pós-graduação em Engenharia de Software na FAMESP - Faculdade Metropolitana de São Paulo. Tenho graduação em Análise e Desenvolvimento de Sistemas(ADS) - Tecnólogo na UNESA -Universidade Estácio de Sá. Também estou Cursando uma formação de esenvolvimento Full-Stack com especialização em Front-End e Backend na Digital College. Curso presencial na cidade de Fortaleza-CE
+## Sobre mim
+Atualmente, estou empenhado em aprimorar minhas habilidades na área de tecnologia. Sou um estudante de Pós-graduação em Engenharia de Software na FAMESP - Faculdade Metropolitana de São Paulo. Também tenho uma graduação em Análise e Desenvolvimento de Sistemas (Tecnólogo) pela UNESA - Universidade Estácio de Sá. Atualmente, estou conclui uma formação de Desenvolvimento Full-Stack com especialização em Front-End e Back-End na Digital College, um curso presencial na cidade de Fortaleza, CE.
 
 ## Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/clairtonlima/)
-
-[![Twitter](https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=twitter)](https://twitter.com/clairtonlm)
-
+- [LinkedIn](https://www.linkedin.com/in/clairtonlima/)
+- [Twitter]([seu-link-do-Twitter](https://twitter.com/clairtonlm))
 
 ## Habilidades
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
-
-![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
+- JavaScript
+- Java
 
 ## Bibliotecas e Frameworks
-![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
+- React
+- Angular
 
-![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=C3002F)
+## Projetos
+Aqui estão alguns dos projetos em que tenho trabalhado recentemente:
+
+1. [Projeto X](link-para-o-projeto-x): Descrição breve do projeto e tecnologias utilizadas.
+2. [Projeto Y](link-para-o-projeto-y): Descrição breve do projeto e tecnologias utilizadas.
+
+## Aprendizado contínuo
+Estou constantemente aprimorando minhas habilidades e conhecimentos, e estou ansioso para contribuir para projetos empolgantes no futuro. Se você está interessado em colaborar ou apenas bater um papo sobre tecnologia, não hesite em entrar em contato!
+
+## Obrigado por visitar o meu perfil!
