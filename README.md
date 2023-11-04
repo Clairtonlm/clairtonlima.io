@@ -6,15 +6,21 @@ Atualmente, estou empenhado em aprimorar minhas habilidades na área de tecnolog
 
 ## Conecte-se comigo
 - [LinkedIn](https://www.linkedin.com/in/clairtonlima/)
-- [Twitter]([seu-link-do-Twitter](https://twitter.com/clairtonlm))
+- [Twitter]((https://twitter.com/clairtonlm))
 
 ## Habilidades
-- JavaScript
-- Java
+-HTML
+-CSS
+-JavaScript
+-Node
+-Java
+
+
 
 ## Bibliotecas e Frameworks
 - React
 - Angular
+- Spring Boot
 
 ## Projetos
 Aqui estão alguns dos projetos em que tenho trabalhado recentemente:
